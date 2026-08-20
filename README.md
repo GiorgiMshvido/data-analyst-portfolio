@@ -21,3 +21,9 @@ Welcome to my data analytics portfolio. I'm building practical projects that dem
 This repository documents my journey into data analytics through practical projects. Each project focuses on analyzing data, creating meaningful visualizations, and identifying business insights.
 
 I am continuing to develop my skills in Excel, SQL, Power BI, and data analysis through hands-on projects.
+
+## Power BI Project
+
+### Sales Performance Dashboard
+
+![Power BI Dashboard](images/PowerBI_Dashboard.png)
