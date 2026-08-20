@@ -26,4 +26,4 @@ I am continuing to develop my skills in Excel, SQL, Power BI, and data analysis 
 
 ### Sales Performance Dashboard
 
-![Power BI Dashboard](images/PowerBIDashboard.png)
+![PowerBIDashboard](images/PowerBIDashboard.png)
