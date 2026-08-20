@@ -24,6 +24,6 @@ I am continuing to develop my skills in Excel, SQL, Power BI, and data analysis 
 
 ## Power BI Project
 
-### Sales Performance Dashboard
+### Power BI Dashboard Store Performance Page Preview
 
 ![PowerBIDashboard](images/PowerBIDashboard.png)
